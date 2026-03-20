@@ -23,5 +23,4 @@ Remember to:
 - Create the second page of the report
 - Publish your report on Power BI Service
 - If you are familiar with it, feel free to use other features in the buttons and other elements
-
 - Upload your project to GitHub
